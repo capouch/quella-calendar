@@ -1,0 +1,22 @@
+# view AndroidManifest.xml #generated:29
+-keep class com.quella.schedulemeetings.CalendarSelection { <init>(...); }
+
+# view AndroidManifest.xml #generated:41
+-keep class com.quella.schedulemeetings.CreateEvents { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.quella.schedulemeetings.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.quella.schedulemeetings.SelectDomain { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.quella.schedulemeetings.SelectMeetings { <init>(...); }
+
+# onClick res/layout/activity_calendar_selection.xml #generated:46
+# onClick res/layout/activity_create_events.xml #generated:19
+# onClick res/layout/activity_main.xml #generated:37
+# onClick res/layout/activity_select_domain.xml #generated:23
+# onClick res/layout/activity_select_meetings.xml #generated:24
+-keepclassmembers class * { *** onClick(...); }
+

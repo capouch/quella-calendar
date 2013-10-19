@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Schedule Meetings</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_hint">EMAIL</string>
+    <string name="password_hint">PASSWORD</string>
+    <string name="submit_button">Submit</string>
+    <string name="Introduction">Login with a Google Apps email to begin.</string>
+    <string name="title_activity_calendar_selection">Select Shared Calendars</string>
+    <string name="calendar_selection_introduction">Select the calendars that you would like to compare.</string>
+    <string name="sample_value">Some Calendar</string>
+    <string name="title_activity_select_domain">Select Bad Hours</string>
+    <string name="title_activity_select_meetings">Select Meeting Times</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_create_events">Create Events in Calendar</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+</resources>
